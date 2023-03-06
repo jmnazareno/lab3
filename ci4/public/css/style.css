@@ -69,7 +69,7 @@ button:hover{
     place-items: center;
     align-content: center;
     min-height: 91vh;
-    background-image: url("img/WelcomeBG.jpg");
+    background-image: url("img/Welcome_Background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -171,8 +171,8 @@ button:hover{
 }
 
 .ContactMeTitle {
-    margin: 4rem 0 5rem 0;
-    text-align: center;
+    padding: 4rem 0 5rem 0;
+    text-align: center; 
     background-color: #7B6D5b;
 
 }
